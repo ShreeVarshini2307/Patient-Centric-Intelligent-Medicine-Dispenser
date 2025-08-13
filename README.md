@@ -22,6 +22,7 @@ Software:
 1. Blynk IOT
 2. Arduino IDE
 ## Block diagram
+<img width="1040" height="663" alt="image" src="https://github.com/user-attachments/assets/45652e5f-32b4-4da8-a123-3d39f691cd13" />
 
 ## Hardware Setup
 <img width="1178" height="642" alt="image" src="https://github.com/user-attachments/assets/13408645-4017-4c2c-862c-e642bead5036" />
