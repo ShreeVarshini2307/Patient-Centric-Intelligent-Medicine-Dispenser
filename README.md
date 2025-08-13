@@ -17,6 +17,7 @@ Hardware:
 5.	IR sensor
 6.	Relay
 7.	DC Pneumatic motor
+   
 Software:
 1. Blynk IOT
 2. Arduino IDE
