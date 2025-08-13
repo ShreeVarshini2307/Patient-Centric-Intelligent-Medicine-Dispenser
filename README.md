@@ -24,6 +24,7 @@ Software:
 
 ## Hardware Setup
 <img width="1178" height="642" alt="image" src="https://github.com/user-attachments/assets/13408645-4017-4c2c-862c-e642bead5036" />
+
 ## Software Setup
 When medicine is taken:
 <img width="397" height="717" alt="image" src="https://github.com/user-attachments/assets/40ca8508-c15f-45d6-8bf7-24e6ef2b67c5" />
@@ -31,6 +32,7 @@ When medicine is taken:
 When medicine is not taken:
 <img width="380" height="642" alt="image" src="https://github.com/user-attachments/assets/66db5d47-2729-40db-8ce5-708caa2f2443" />
 <img width="624" height="292" alt="image" src="https://github.com/user-attachments/assets/571e42e5-92ac-46a3-9fa5-4db4fcc875c8" />
+
 ## Achievements
 1.	Published a conference paper, in 2024 4th Asia Conference on innovation in Technology (ASIANCON) under IEEE Bombay section on August 2024. 
 2.	Participated and secured First Prize in Paper Presentation at Bannari Amman Institute of Technology, Sathyamanagalam on February 15,2024.
